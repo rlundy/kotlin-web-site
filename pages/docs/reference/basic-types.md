@@ -608,10 +608,11 @@ You can remove leading whitespace with [`trimMargin()`](https://kotlinlang.org/a
 
 ```kotlin
 val text = """
-    |Tell me and I forget.
-    |Teach me and I remember.
-    |Involve me and I learn.
-    |(Benjamin Franklin)
+    |Not having heard of it is not as good as having heard of it.
+    |Having heard of it is not as good as having seen it.
+    |Having seen it is not as good as knowing it.
+    |Knowing it is not as good as putting it into practice.
+    |(Xunzi)
     """.trimMargin()
 ```
 
